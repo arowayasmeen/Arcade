@@ -1,6 +1,7 @@
 # OOP-Project
 
 Project: Spell B
+
 General Idea:
 A game which is similar to spelling bee. It consists of two levels of different types where the user needs to input correct spelling to advance and collect points. 
 Level 1: An audio file of the word to be spelled is played and the user is asked to input the correct answer. This level is not timed. The user has few options: 
@@ -8,6 +9,7 @@ Level 1: An audio file of the word to be spelled is played and the user is asked
 2.	The user can ask for the word’s meaning and part of speech.
 3.	The user can ask for the word to be used in a sentence. 
 Level 2: The game generates a jumble of letters and the user enters the correct spelling of the word using all the letters from the jumble. This level is timed. 
+
 Rules: 
 The user cannot exit the game during a session. If they do then all progress is lost. The user needs to finish a level in one go. 
 The first level is not timed but the second level is. 
